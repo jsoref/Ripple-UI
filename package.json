@@ -14,7 +14,7 @@
   "bin": { "ripple": "./bin/ripple" },
   "main": "lib/index",
   "dependencies": {
-    "connect": "2.3.6",
+    "connect": "3.7.0",
     "jsdom": "0.2.14",
     "jWorkflow": "*",
     "cssmin": "0.3.1",
